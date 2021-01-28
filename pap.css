@@ -1,0 +1,19 @@
+body{
+	background-color:#fcfaf5 ;
+}
+
+h1,h2,h3,p{
+	color:		#583939 ;
+	 
+}
+
+
+ 
+a{
+	color:#d04261;
+} 
+a:hover {
+  color: #be9b9b;
+  background-color: transparent;
+  text-decoration: underline;
+}
